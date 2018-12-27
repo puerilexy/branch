@@ -174,3 +174,16 @@ html {
   -ms-box-sizing: border-box;
   -o-box-sizing: border-box;
   box-sizing: border-box; }
+
+.wrap {
+  width: 100%;
+  height: 100%; }
+
+.header {
+  width: 100%;
+  height: 1.2rem;
+  line-height: 1.2rem;
+  background: palevioletred;
+  color: #fff;
+  font-size: 16px;
+  text-align: center; }
